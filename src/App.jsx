@@ -36,7 +36,7 @@ function App() {
             className="outline-none px-4 py-1 rounded-full text-gray-500 font-bold shadow-inner shadow-gray-800"
             style={{ backgroundColor: "#123C69" }}
           >
-            Green
+            Blue
           </button>
           <button
             onClick={() => setcolor("pink")}
